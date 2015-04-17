@@ -1,0 +1,1 @@
+<input type='checkbox' id='facebook_code' name=socialicons_options[facebook_code]' value='true' <?=$checked?> />Show Facebook share button
